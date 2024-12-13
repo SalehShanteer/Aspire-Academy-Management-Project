@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\saleh\\Desktop\\Programming\\Projects\\AspireAcademy\\CourseCenter Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64E6E1D8-3B2C-499E-848D-00C7287CE900}|Aspire Academy Project.csproj|C:\\Users\\saleh\\Desktop\\Programming\\Projects\\AspireAcademy\\CourseCenter Project\\frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{64E6E1D8-3B2C-499E-848D-00C7287CE900}|Aspire Academy Project.csproj|c:\\users\\saleh\\desktop\\programming\\projects\\aspireacademy\\coursecenter project\\frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{64E6E1D8-3B2C-499E-848D-00C7287CE900}|Aspire Academy Project.csproj|solutionrelative:frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{64E6E1D8-3B2C-499E-848D-00C7287CE900}|Aspire Academy Project.csproj|solutionrelative:frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64E6E1D8-3B2C-499E-848D-00C7287CE900}|Aspire Academy Project.csproj|c:\\users\\saleh\\desktop\\programming\\projects\\aspireacademy\\coursecenter project\\courses\\frmmanagecourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{64E6E1D8-3B2C-499E-848D-00C7287CE900}|Aspire Academy Project.csproj|C:\\Users\\saleh\\Desktop\\Programming\\Projects\\AspireAcademy\\CourseCenter Project\\courses\\frmmanagecourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{64E6E1D8-3B2C-499E-848D-00C7287CE900}|Aspire Academy Project.csproj|solutionrelative:courses\\frmmanagecourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -44,8 +44,7 @@
               "ToolTip": "C:\\Users\\saleh\\Desktop\\Programming\\Projects\\AspireAcademy\\CourseCenter Project\\Courses\\frmManageCourses.cs [Design]",
               "RelativeToolTip": "Courses\\frmManageCourses.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T14:45:46.461Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-13T14:45:46.461Z"
             },
             {
               "$type": "Document",
