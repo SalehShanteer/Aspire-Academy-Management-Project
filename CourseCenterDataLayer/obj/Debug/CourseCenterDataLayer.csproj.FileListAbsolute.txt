@@ -1,0 +1,12 @@
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenterDataLayer\bin\Debug\CourseCenterDataLayer.dll
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenterDataLayer\bin\Debug\CourseCenterDataLayer.pdb
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenterDataLayer\obj\Debug\CourseCenterDataLayer.csproj.AssemblyReference.cache
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenterDataLayer\obj\Debug\CourseCenterDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenterDataLayer\obj\Debug\CourseCenterDataLayer.dll
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenterDataLayer\obj\Debug\CourseCenterDataLayer.pdb
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenterDataLayer\bin\Debug\CourseCenterDataLayer.dll
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenterDataLayer\bin\Debug\CourseCenterDataLayer.pdb
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenterDataLayer\obj\Debug\CourseCenterDataLayer.csproj.AssemblyReference.cache
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenterDataLayer\obj\Debug\CourseCenterDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenterDataLayer\obj\Debug\CourseCenterDataLayer.dll
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenterDataLayer\obj\Debug\CourseCenterDataLayer.pdb

@@ -1,0 +1,71 @@
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\bin\Debug\CourseCenter Project.exe.config
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\bin\Debug\CourseCenter Project.exe
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\bin\Debug\CourseCenter Project.pdb
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\obj\Debug\CourseCenter Project.csproj.AssemblyReference.cache
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\obj\Debug\CourseCenter_Project.Properties.Resources.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\obj\Debug\CourseCenter Project.csproj.GenerateResource.cache
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\obj\Debug\CourseCenter Project.csproj.CoreCompileInputs.cache
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\obj\Debug\CourseCenter Project.exe
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\obj\Debug\CourseCenter Project.pdb
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\bin\Debug\Guna.UI2.dll
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\obj\Debug\CourseCenter_Project.frmMain.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\obj\Debug\CourseCenter_Project.frmManagePeople.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\obj\Debug\CourseCe.D49127CC.Up2Date
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\obj\Debug\CourseCenter_Project.frmManageCourses.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\obj\Debug\CourseCenter_Project.frmManageInstructors.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\obj\Debug\CourseCenter_Project.frmManagePayments.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\obj\Debug\CourseCenter_Project.frmManageStudents.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\bin\Debug\CourseCenterBusinessLayer.dll
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\bin\Debug\CourseCenterDataLayer.dll
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\bin\Debug\CourseCenterBusinessLayer.pdb
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\bin\Debug\CourseCenterDataLayer.pdb
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\obj\Debug\CourseCenter_Project.frmAddUpdatePerson.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\obj\Debug\CourseCenter_Project.frmAddUpdateStudent.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\obj\Debug\CourseCenter_Project.frmAddUpdateLevel.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\obj\Debug\CourseCenter_Project.frmAddUpdateInstructor.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\obj\Debug\CourseCenter_Project.frmAddUpdateSpecialization.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\obj\Debug\CourseCenter_Project.frmActiveStudentsList.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\obj\Debug\CourseCenter_Project.frmStudentsEnrolledInCourse.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\obj\Debug\CourseCenter_Project.frmAddUpdateCourse.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\obj\Debug\CourseCenter_Project.frmInstructorCourses.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\obj\Debug\CourseCenter_Project.frmStudentEnrollments.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\obj\Debug\CourseCenter_Project.frmEnrollmentsList.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter Project\obj\Debug\CourseCenter_Project.frmAddUpdateEnrollment.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\bin\Debug\CourseCenter Project.exe.config
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\bin\Debug\CourseCenter Project.exe
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\bin\Debug\CourseCenter Project.pdb
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\bin\Debug\CourseCenterBusinessLayer.dll
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\bin\Debug\CourseCenterDataLayer.dll
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\bin\Debug\CourseCenterBusinessLayer.pdb
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\bin\Debug\CourseCenterDataLayer.pdb
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter Project.csproj.AssemblyReference.cache
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter_Project.frmActiveStudentsList.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter_Project.frmAddUpdateCourse.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter_Project.frmAddUpdateEnrollment.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter_Project.frmAddUpdateInstructor.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter_Project.frmAddUpdateLevel.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter_Project.frmAddUpdatePerson.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter_Project.frmAddUpdateSpecialization.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter_Project.frmAddUpdateStudent.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter_Project.frmInstructorCourses.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter_Project.frmMain.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter_Project.frmManageCourses.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter_Project.frmManageInstructors.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter_Project.frmManagePayments.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter_Project.frmManagePeople.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter_Project.frmManageStudents.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter_Project.frmStudentEnrollments.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter_Project.Properties.Resources.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter_Project.frmStudentsEnrolledInCourse.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter Project.csproj.GenerateResource.cache
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter Project.csproj.CoreCompileInputs.cache
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCe.D49127CC.Up2Date
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter Project.exe
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter Project.pdb
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter_Project.frmManageEnrollments.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter_Project.frmPaymentPortal.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter_Project.frmAddUpdatePaymentMethod.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter_Project.frmLoginScreen.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter_Project.frmManageUsers.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter_Project.frmAddUpdateUser.resources
+C:\Users\saleh\Desktop\Programming\Projects\CourseCenter\CourseCenter Project\obj\Debug\CourseCenter_Project.frmAddUpdateRole.resources

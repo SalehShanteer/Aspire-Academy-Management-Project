@@ -1,0 +1,9 @@
+C:\Users\saleh\Desktop\Programming\Projects\AspireAcademy\CourseCenterBusinessLayer\bin\Debug\CourseCenterBusinessLayer.dll
+C:\Users\saleh\Desktop\Programming\Projects\AspireAcademy\CourseCenterBusinessLayer\bin\Debug\CourseCenterBusinessLayer.pdb
+C:\Users\saleh\Desktop\Programming\Projects\AspireAcademy\CourseCenterBusinessLayer\bin\Debug\CourseCenterDataLayer.dll
+C:\Users\saleh\Desktop\Programming\Projects\AspireAcademy\CourseCenterBusinessLayer\bin\Debug\CourseCenterDataLayer.pdb
+C:\Users\saleh\Desktop\Programming\Projects\AspireAcademy\CourseCenterBusinessLayer\obj\Debug\AspireAcademyBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\saleh\Desktop\Programming\Projects\AspireAcademy\CourseCenterBusinessLayer\obj\Debug\AspireAcademyBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\saleh\Desktop\Programming\Projects\AspireAcademy\CourseCenterBusinessLayer\obj\Debug\AspireAc.63B5306D.Up2Date
+C:\Users\saleh\Desktop\Programming\Projects\AspireAcademy\CourseCenterBusinessLayer\obj\Debug\CourseCenterBusinessLayer.dll
+C:\Users\saleh\Desktop\Programming\Projects\AspireAcademy\CourseCenterBusinessLayer\obj\Debug\CourseCenterBusinessLayer.pdb
