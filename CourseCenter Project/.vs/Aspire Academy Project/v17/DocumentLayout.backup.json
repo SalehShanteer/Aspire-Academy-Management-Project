@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\saleh\\Desktop\\Programming\\Projects\\AspireAcademy\\CourseCenter Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{64E6E1D8-3B2C-499E-848D-00C7287CE900}|Aspire Academy Project.csproj|C:\\Users\\saleh\\Desktop\\Programming\\Projects\\AspireAcademy\\CourseCenter Project\\frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64E6E1D8-3B2C-499E-848D-00C7287CE900}|Aspire Academy Project.csproj|solutionrelative:frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E6E1D8-3B2C-499E-848D-00C7287CE900}|Aspire Academy Project.csproj|C:\\Users\\saleh\\Desktop\\Programming\\Projects\\AspireAcademy\\CourseCenter Project\\frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E6E1D8-3B2C-499E-848D-00C7287CE900}|Aspire Academy Project.csproj|solutionrelative:frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{64E6E1D8-3B2C-499E-848D-00C7287CE900}|Aspire Academy Project.csproj|c:\\users\\saleh\\desktop\\programming\\projects\\aspireacademy\\coursecenter project\\courses\\frmmanagecourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{64E6E1D8-3B2C-499E-848D-00C7287CE900}|Aspire Academy Project.csproj|solutionrelative:courses\\frmmanagecourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -15,14 +23,6 @@
       "RelativeMoniker": "D:0:0:{64E6E1D8-3B2C-499E-848D-00C7287CE900}|Aspire Academy Project.csproj|solutionrelative:people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64E6E1D8-3B2C-499E-848D-00C7287CE900}|Aspire Academy Project.csproj|C:\\Users\\saleh\\Desktop\\Programming\\Projects\\AspireAcademy\\CourseCenter Project\\frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64E6E1D8-3B2C-499E-848D-00C7287CE900}|Aspire Academy Project.csproj|solutionrelative:frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64E6E1D8-3B2C-499E-848D-00C7287CE900}|Aspire Academy Project.csproj|C:\\Users\\saleh\\Desktop\\Programming\\Projects\\AspireAcademy\\CourseCenter Project\\frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{64E6E1D8-3B2C-499E-848D-00C7287CE900}|Aspire Academy Project.csproj|solutionrelative:frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saleh\\Desktop\\Programming\\Projects\\CourseCenter\\CourseCenterDataLayer\\clsStudentData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -33,11 +33,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "frmManageCourses.cs [Design]",
               "DocumentMoniker": "C:\\Users\\saleh\\Desktop\\Programming\\Projects\\AspireAcademy\\CourseCenter Project\\Courses\\frmManageCourses.cs",
               "RelativeDocumentMoniker": "Courses\\frmManageCourses.cs",
@@ -55,13 +55,12 @@
               "RelativeDocumentMoniker": "..\\..\\CourseCenter\\CourseCenterDataLayer\\clsStudentData.cs",
               "ToolTip": "C:\\Users\\saleh\\Desktop\\Programming\\Projects\\CourseCenter\\CourseCenterDataLayer\\clsStudentData.cs",
               "RelativeToolTip": "..\\..\\CourseCenter\\CourseCenterDataLayer\\clsStudentData.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAABAwEMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T19:42:40.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "frmAddUpdatePerson.cs",
               "DocumentMoniker": "C:\\Users\\saleh\\Desktop\\Programming\\Projects\\AspireAcademy\\CourseCenter Project\\People\\frmAddUpdatePerson.cs",
               "RelativeDocumentMoniker": "People\\frmAddUpdatePerson.cs",
@@ -73,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "frmAddUpdatePerson.cs [Design]",
               "DocumentMoniker": "C:\\Users\\saleh\\Desktop\\Programming\\Projects\\AspireAcademy\\CourseCenter Project\\People\\frmAddUpdatePerson.cs",
               "RelativeDocumentMoniker": "People\\frmAddUpdatePerson.cs",
@@ -84,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "frmLoginScreen.cs",
               "DocumentMoniker": "C:\\Users\\saleh\\Desktop\\Programming\\Projects\\AspireAcademy\\CourseCenter Project\\frmLoginScreen.cs",
               "RelativeDocumentMoniker": "frmLoginScreen.cs",
@@ -92,18 +91,20 @@
               "RelativeToolTip": "frmLoginScreen.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T19:08:24.866Z"
+              "WhenOpened": "2024-12-12T19:08:24.866Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "frmLoginScreen.cs [Design]",
               "DocumentMoniker": "C:\\Users\\saleh\\Desktop\\Programming\\Projects\\AspireAcademy\\CourseCenter Project\\frmLoginScreen.cs",
               "RelativeDocumentMoniker": "frmLoginScreen.cs",
-              "ToolTip": "C:\\Users\\saleh\\Desktop\\Programming\\Projects\\CourseCenter\\CourseCenter Project\\frmLoginScreen.cs [Design]",
-              "RelativeToolTip": "..\\..\\CourseCenter\\CourseCenter Project\\frmLoginScreen.cs [Design]",
+              "ToolTip": "C:\\Users\\saleh\\Desktop\\Programming\\Projects\\AspireAcademy\\CourseCenter Project\\frmLoginScreen.cs [Design]",
+              "RelativeToolTip": "frmLoginScreen.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T19:06:48.504Z"
+              "WhenOpened": "2024-12-12T19:06:48.504Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

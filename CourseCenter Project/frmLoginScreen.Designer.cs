@@ -253,7 +253,7 @@
             // 
             // timerRemaining
             // 
-            this.timerRemaining.Interval = 10;
+            this.timerRemaining.Interval = 1000;
             this.timerRemaining.Tick += new System.EventHandler(this.timerRemaining_Tick);
             // 
             // lblRemainingAndTimer
