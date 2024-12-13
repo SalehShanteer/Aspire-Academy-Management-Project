@@ -1,4 +1,5 @@
 Aspire Academy Management System
+
 Aspire Academy Management System is a robust application designed to manage various aspects of an academic institution. Built using C# with .NET, it leverages ADO.NET for database connectivity to Microsoft SQL Server. The system provides comprehensive features to manage students, instructors, users, courses, enrollments, and payments.
 
 Key Features
